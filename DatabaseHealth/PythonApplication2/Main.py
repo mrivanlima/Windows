@@ -13,9 +13,7 @@ rows = cur.fetchall()
 
 if rows:
     print(*rows,sep="\n")
-conn.close()
-
-
+connector.closeConnection()
 
 
 
