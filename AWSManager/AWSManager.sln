@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AWSManager", "AWSManager\AWSManager.pyproj", "{AAB03638-BCE3-4806-BB6B-F9F66277EC81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB03638-BCE3-4806-BB6B-F9F66277EC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB03638-BCE3-4806-BB6B-F9F66277EC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B433BE79-8246-4C9D-9F96-B15DD9F1BC75}
+	EndGlobalSection
+EndGlobal
